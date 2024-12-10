@@ -48,5 +48,5 @@ flwr run
 
 The global PEFT model checkpoints are saved every 5 rounds after aggregation on the sever side as default, which can be specified with `train.save-every-round` under [tool.flwr.app.config] entry in `pyproject.toml`.
 
-> [!NOTE]
-> Please provide the last PEFT checkpoint if you plan to participated in the [LLM leaderboard](https://flower.ai/benchmarks/llm-leaderboard).
+## Checkpoint download
+[Link](https://drive.google.com/drive/folders/1Hwm2mu_K_VGzUW5_0T5J0BaLQFvcnY8F?usp=sharing)
